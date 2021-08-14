@@ -1,5 +1,5 @@
 title = "Rajib Mikail"
-baseURL = "https://example.com/"
+baseURL = "http://rajibmikail.com/"
 theme = "hugo-resume"
 
 languageCode = "en-us"
